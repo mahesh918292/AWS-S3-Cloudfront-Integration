@@ -17,3 +17,4 @@ step 6) Click Edit and put index.html as an entry point
 ![Screenshot (383)](https://github.com/user-attachments/assets/47f0e44f-6910-44c3-946c-7bd1f04bf2b4)
 ![Screenshot (384)](https://github.com/user-attachments/assets/8603027c-2de6-4a33-8639-1fc788ab51b4)
 step 7) Result can be seen via cloudfront url
+If it shows hit from the cloudfront then it is cahed at edge location , if miss from cloudfront then the files is not cached
